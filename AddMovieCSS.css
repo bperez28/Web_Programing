@@ -1,0 +1,19 @@
+body  {
+  width: 30%;
+  border: solid black;
+  padding: 20px;
+  text-align: left;
+
+}
+a#link {
+  text-decoration-line: none;
+}
+div#tr {
+  padding: 5px;
+}
+div#td {
+  margin-left: 8em;
+}
+div#th {
+  margin-bottom: -1em;
+}

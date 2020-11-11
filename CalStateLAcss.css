@@ -1,0 +1,25 @@
+div#p1{
+  color: white;
+  background-color: black;
+  font-size: 50%;
+    text-align: right;}
+div#p2{
+      font-weight: bold;}
+div#p3{
+  font-weight: bold;
+font-size: 200%}
+div#p4{
+    background-color: gold;
+  text-align: left;}
+footer#p5{
+  color: white;
+  background-color: black;
+  font-size: 50%;
+    text-align: center;}
+h2#p6{
+  font-weight: bold;
+  font-size: 200%;
+}
+p{
+  text-indent:20px;
+}

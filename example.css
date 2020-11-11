@@ -1,0 +1,30 @@
+body{
+  font-family: verdana;}
+p{
+  color: red; font-size: 200%;}
+nameofplace#idname{
+
+}
+
+
+/* feb 4 2020 */
+.classname {
+    border: 1px solid black;
+
+}
+
+table, th, td {
+  border: black;
+}
+
+table {
+  border-collapse: collapse;
+}
+body {
+  background-image: url("");
+  background-repeat: repeat;
+  background-attachment:scroll;
+
+}
+
+#main

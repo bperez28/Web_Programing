@@ -1,0 +1,75 @@
+.header-cont, .option {
+  border: 1px solid black;
+  top:0;
+  width:100%;
+  background-color: white;
+  postion: fixed;
+
+}
+.header-cont {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.content{
+  padding-top: 120px;
+}
+.option{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+body {
+  margin: 8px;
+}
+.ad{
+  margin: 1px;
+  margin-top: 1em;
+  column-count: 2;
+  column-gap: 200px;
+}
+.ad1, .ad2 {
+  width: 700px;
+  background:yellow;
+  height: 200px;
+}
+.row1 {
+    column-count: 2;
+  font-weight: bold;
+  font-size: 25px;
+  column-count: 2;
+  column-gap: 200px;
+  height:40px;
+  padding-top: 20px;
+}
+.colh1{
+      width: 700px;
+    border-bottom: 2px solid black;
+}
+.row2, .row3, .row4 {
+  column-gap: 200px;
+  column-count: 2;
+  margin-bottom: 1em;
+}
+.col1, .col2 {
+  padding-top:  1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  width: 680px;
+  border: 1px solid black;
+}
+.colname{
+  font-weight: bold;
+  font-size: 20px;
+}
+.footer{
+  padding: 1em;
+  font-size: 15;
+  text-align: center;
+    border: 1px solid black;
+}
+/* div,p {
+  color: red;
+  column-count: 2;
+
+} */
